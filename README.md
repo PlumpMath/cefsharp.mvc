@@ -1,5 +1,4 @@
 # cefsharp.mvc
-cefsharp mvc
 
 Test project to try and get CefSharp to run inside an asp.net MVC project.
 
